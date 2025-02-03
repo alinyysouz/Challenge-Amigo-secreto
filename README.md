@@ -6,7 +6,7 @@
 
 * [Título e imagem de capa](#Título-e-Imagem-de-capa)
 * [Índice](#Índice)
-* [Descrição do Projeto](#Descrição)
+* [Descrição do Projeto](#descrição-do-projeto)
 * [Status do Projeto](#status-do-Projeto)
 * [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
 * [Tecnologias utilizadas](#tecnologias-utilizadas)
