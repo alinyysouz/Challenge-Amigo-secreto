@@ -34,7 +34,8 @@ A lógica é implementada em JavaScript, utilizando arrays para armazenar os nom
 
 # 👷‍♀️ Autores: 
 
-| [<img loading="lazy" src="[https://avatars.githubusercontent.com/u/12345678?v=4](https://avatars.githubusercontent.com/u/161497868?v=4)" width=115><br><sub>Aline Souza</sub>](https://github.com/alinnesouz) |
+| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/161497868?v=4" width=115><br><sub>Aline Souza</sub>](https://github.com/alinyysouz) |
 | :---: |
+
 
 
