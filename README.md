@@ -5,7 +5,7 @@
 # Índice:
 
 * [Título e imagem de capa](#Título-e-Imagem-de-capa)
-* [Índice](#índice)
+* [Índice](#Índice)
 * [Descrição do Projeto](#descrição-do-projeto)
 * [Status do Projeto](#status-do-Projeto)
 * [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
@@ -19,8 +19,7 @@
 
 
 
-  Este projeto é um sorteador de nomes interativo, desenvolvido com HTML, CSS e JavaScript. O usuário pode inserir um nome por vez em um campo de texto e, ao pressionar o botão "Adicionar", o nome é armazenado em uma lista. Quando desejar realizar o sorteio, basta clicar no botão "Sortear", e o sistema escolherá aleatoriamente um dos nomes inseridos.
-
+Este projeto é um sorteador de nomes interativo, desenvolvido com HTML, CSS e JavaScript. O usuário pode inserir um nome por vez em um campo de texto e, ao pressionar o botão "Adicionar", o nome é armazenado em uma lista. Quando desejar realizar o sorteio, basta clicar no botão "Sortear", e o sistema escolherá aleatoriamente um dos nomes inseridos.
 A lógica é implementada em JavaScript, utilizando arrays para armazenar os nomes e a função Math.random() para selecionar um vencedor. O resultado é exibido na tela de forma dinâmica, tornando a experiência simples e intuitiva.
 
 
