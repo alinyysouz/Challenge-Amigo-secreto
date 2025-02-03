@@ -1,6 +1,6 @@
 ![Logo com formatos irregulares em laranja e verde, com o título "Amigo secreto"](https://github.com/user-attachments/assets/d2ebc8cf-fb39-43a9-b4c4-e854171d6c90)
 
-#Índice:
+##Índice:
 
 * [Título e imagem de capa](#Título-e-Imagem-de-capa)
 * [Índice](#índice)
