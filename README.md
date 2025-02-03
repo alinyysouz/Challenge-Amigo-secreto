@@ -30,7 +30,7 @@ A lógica é implementada em JavaScript, utilizando arrays para armazenar os nom
 
 # 🔨 Funcionalidades do projeto:
 
-- `Funcionalidade 1´: Permite adicionar nomes individualmente à lista.
+- `Funcionalidade 1`: Permite adicionar nomes individualmente à lista.
 - `Funcionalidade 2`: Exibe todos os nomes inseridos.
 - `Funcionalidade 3`: Sorteia um nome aleatório da lista.
 
